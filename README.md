@@ -2,7 +2,7 @@
 # Python Script to Explore US Bikeshare Data
 A Udacity project I have made to help improve and tone my python skills specifically in NumPy, pandas and Time libraries. This project was created on March 2021.
 
-I also provided a snapshot of the feedback I recieved from the instructor marking 
+I also provided a snapshot of the feedback I received from the instructor marking 
 my work in 'feedback.png'.
 
 ## Project Overview
