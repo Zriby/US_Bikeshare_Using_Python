@@ -2,6 +2,9 @@
 # Python Script to Explore US Bikeshare Data
 A Udacity project I have made to help improve and tone my python skills specifically in NumPy, pandas and Time libraries. This project was created on March 2021.
 
+I also provided a snapshot of the feedback I recieved from the instructor marking 
+my work in 'feedback.png'.
+
 ## Project Overview
 In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I wrote code to import the data and answer interesting questions about it by computing descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
