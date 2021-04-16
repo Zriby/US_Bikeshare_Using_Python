@@ -7,7 +7,7 @@ In this project, I made use of Python to explore data related to bike share syst
 
 ## Program Execution
 Run 'bikeshare.py' on your terminal. You can use the Jupyer Notebook on [Anaconda Navigator](https://www.anaconda.com/) for MAC, Linux or Windows.
-:exclamation::exclamation:**NOTE: unzip _data.zip_ to get all cities dataset before running the script**
+:exclamation:**NOTE: unzip _data.zip_ to get all cities dataset before running the script**
 
 ## Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
